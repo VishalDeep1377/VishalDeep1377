@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/2176122055/photo/software-development-concept-hands-typing-on-laptop-with-programming-code-on-screen.webp?a=1&b=1&s=612x612&w=0&k=20&c=O7oitte50xfKdK23WSea0XT_iA_0d9MSyuLNrYtOQBM=" width="100%" alt="Vishal Deep Banner"/>
+<img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" alt="Vishal Deep Banner"/>
 
 <h1 align="center">Hi there 👋 I'm Vishal Deep</h1>
 <h3 align="center">📊 Data Science & AI Enthusiast | 🧠 ML Developer | 💻 BCA Student at LPU</h3>
